@@ -1,0 +1,6 @@
+deposit account
+    balance
+
+withdraw - input balance and amount, return new balance
+deposit - input balance and amount, return new balance
+transfer - input balance and amount, return new balance
